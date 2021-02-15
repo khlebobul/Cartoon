@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# Cartoon
+Cartoon (HTML и CSS)
